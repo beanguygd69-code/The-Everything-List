@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "id": 127323087,
+    "name": "Society",
+    "author": "Neomarbilan",
+    "creators": ["Neomarbilan",],
+    "verifier": "Wpopoff",
+    "verification": "https://www.youtube.com/watch?v=3CoEaH1CM7o",
+    "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=tb1LhBLrJks",
             "percent": 100,
-            "hz": 360
+            "Device": PC,
         }
     ]
 }
